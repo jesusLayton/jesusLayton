@@ -8,7 +8,12 @@ Soy un desarrollador Fullstack y estudiante de programación. También tengo exp
 - Tecnologías: React, Node.js, Express, MongoDB, MySQL, Git
 - Otros: Diseño web, UX/UI, Metodologías ágiles, Resolución de problemas
 
-## Contacto
-
-- [Email](mailto:Jesuslaytonhotmail.com)
-- [LinkedIn](www.linkedin.com/in/jesus-laiton-2a248b207)
+# Estos son los 5 comandos
+|Comando | Descripcion             |
+|--------|-------------------------|
+|ls      |Lista el contenido       |
+|cd      |Cambiar entre directorios|
+|yarn    |Instalar dependencias    |
+|gst     |Alias de git status      |
+|clear   |limpiar la terminal      |
+|Aliaa   |Listar los aliar         |
