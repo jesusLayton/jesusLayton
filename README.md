@@ -1,19 +1,9 @@
 # Jesus Laiton
 
-Soy un desarrollador Fullstack y estudiante de programación. También tengo experiencia como desarrollador PRA.
+Soy un desarrollador y estudiante de programación. También tengo experiencia como desarrollador PRA.
 
 ## Habilidades
 
-- Lenguajes de programación: HTML, CSS, JavaScript, Python, Java
-- Tecnologías: React, Node.js, Express, MongoDB, MySQL, Git
-- Otros: Diseño web, UX/UI, Metodologías ágiles, Resolución de problemas
-
-# Estos son los 5 comandos
-|Comando | Descripcion             |
-|--------|-------------------------|
-|ls      |Lista el contenido       |
-|cd      |Cambiar entre directorios|
-|yarn    |Instalar dependencias    |
-|gst     |Alias de git status      |
-|clear   |limpiar la terminal      |
-|Aliaa   |Listar los aliar         |
+- Lenguajes de programación: JavaScript, Python, Java
+- Tecnologías: Node.js, Express, MongoDB, MySQL, Git, React
+- Otros: HTML, CSS, Diseño web,  Metodologías ágiles, Resolución de problemas
