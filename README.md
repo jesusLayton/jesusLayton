@@ -1,6 +1,6 @@
 # Jesus Laiton
 
-Soy un desarrollador y estudiante de programación. También tengo experiencia como desarrollador PRA.
+Soy un desarrollador y estudiante de programación. También tengo experiencia como desarrollador RPA.
 
 ## Habilidades
 
